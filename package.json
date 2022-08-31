@@ -1,7 +1,7 @@
 {
-  "name": "prisma-types-generator",
+  "name": "@daotl/prisma-types-generator",
   "description": "Generates DTO and Entity classes from Prisma Schema for NestJS",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "dist/index.js",
   "keywords": [
     "prisma",
@@ -65,12 +65,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanmarinich/prisma-types-generator.git"
+    "url": "git+https://github.com/daotl/prisma-types-generator.git"
   },
   "author": "Yan Marinich",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/yanmarinich/prisma-types-generator/issues"
+    "url": "https://github.com/daotl/prisma-types-generator/issues"
   },
-  "homepage": "https://github.com/yanmarinich/prisma-types-generator#readme"
+  "homepage": "https://github.com/daotl/prisma-types-generator#readme"
 }
